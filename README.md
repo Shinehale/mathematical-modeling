@@ -25,4 +25,4 @@
 - [x] `probability model`
 - [x] `graph theory model`
 
-**Hints:**代码不保证绝对的正确性，如有错误还请见谅.
+**Hints:** 代码不保证绝对的正确性，如有错误还请见谅.
